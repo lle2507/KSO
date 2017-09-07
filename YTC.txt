@@ -1,0 +1,4 @@
+Web ban le (cai dat local)
+app offline ban le (cai dat local) -  1 mat hang duoc ban nhieu dong 
+van de bao tri: cai dat tren tung PC
+van de bao mat: cai dat tren tung PC, rui ro hu hong, virus tren PC
